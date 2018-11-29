@@ -1,0 +1,50 @@
+.noTop {
+	top: -32px;
+	margin: 0 px;
+	padding: 0px;
+}
+.noBack {
+	background: 	 !important;
+}
+.whiteBack {
+	background: white !important;
+}
+
+.goUp{
+	top: -72px;
+}
+
+.hrNoPadd{ padding: 0px;
+	margin: 0px;
+	border-color: #CACACA;
+}
+.brGrey{
+	background-color: #e3e3e3;
+	height: 10px;
+}
+
+.btnGroup{
+	margin: 20px 0px 0px 0px;
+	float: right;
+}
+
+.smallHeaderSpace{
+	background: blue;
+	height: 46px; 
+}
+
+.nav-link{
+	color: black !important;
+}
+
+.nav-link:hover{
+	background-color: #FFC026 !important;
+}
+
+.right{
+	float: right;
+}
+
+.left{
+	float: left;
+}
